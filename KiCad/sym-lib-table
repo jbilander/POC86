@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name POC86)(type Legacy)(uri ${KIPRJMOD}/POC86.lib)(options "")(descr ""))
+)

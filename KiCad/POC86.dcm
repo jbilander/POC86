@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_2Rows-86Pins_even_odd
+D Generic connector, double row, 86 pins, even/odd pin numbering scheme (row 2 odd numbers, row 1 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library
