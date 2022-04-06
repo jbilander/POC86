@@ -666,4 +666,34 @@ Wire Notes Line
 	7250 550  5350 550 
 Text Notes 5500 700  0    50   ~ 0
 New (Pass-through) expansion edge
+$Comp
+L Device:CP_Small C2
+U 1 1 628051CA
+P 1350 2250
+F 0 "C2" H 1438 2296 50  0000 L CNN
+F 1 "CP_Small" H 1438 2205 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 1350 2250 50  0001 C CNN
+F 3 "~" H 1350 2250 50  0001 C CNN
+	1    1350 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C1
+U 1 1 62805DF5
+P 800 2250
+F 0 "C1" H 888 2296 50  0000 L CNN
+F 1 "CP_Small" H 888 2205 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 800 2250 50  0001 C CNN
+F 3 "~" H 800 2250 50  0001 C CNN
+	1    800  2250
+	1    0    0    -1  
+$EndComp
+Text GLabel 800  2150 1    50   Input ~ 0
++5VDC
+Wire Wire Line
+	800  2150 1350 2150
+Text GLabel 800  2350 3    50   Input ~ 0
+GND
+Wire Wire Line
+	800  2350 1350 2350
 $EndSCHEMATC
