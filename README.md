@@ -1,5 +1,5 @@
 # POC86
-PortZ Of Call 86 - An external co-processor slot for the A500
+PortZ Of Call 86 - An external co-processor slot for the A500 with a pass-through expansion edge.
 
 FRONT SIDE &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; UNDER SIDE<br />
 <a href="images/POC86_revA_pic2.png">
