@@ -1,13 +1,20 @@
 # POC86
 PortZ Of Call 86 - An external co-processor slot for the A500
 
-<a href="images/POC86_revA_pic1.png">
-<img src="images/POC86_revA_pic1.png" width="300" height="561">
-</a>
+FRONT SIDE &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; UNDER SIDE<br />
 <a href="images/POC86_revA_pic2.png">
 <img src="images/POC86_revA_pic2.png" width="300" height="561">
 </a>
-<br />
+<a href="images/POC86_revA_pic1.png">
+<img src="images/POC86_revA_pic1.png" width="300" height="561">
+</a>
+***
+
+86-pin connectors can be sourced from here:<br />
+https://www.aliexpress.com/item/33029711948.html
+
+***
+
 <a href="images/POC86_revA_pic3.png">
 <img src="images/POC86_revA_pic3.png" width="610" height="566">
 </a>
