@@ -696,4 +696,17 @@ Text GLabel 800  2350 3    50   Input ~ 0
 GND
 Wire Wire Line
 	800  2350 1350 2350
+$Comp
+L Connector_Generic:Conn_01x01 J4
+U 1 1 62830C74
+P 1450 3100
+F 0 "J4" H 1530 3142 50  0000 L CNN
+F 1 "Conn_01x01" H 1530 3051 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 1450 3100 50  0001 C CNN
+F 3 "~" H 1450 3100 50  0001 C CNN
+	1    1450 3100
+	1    0    0    -1  
+$EndComp
+Text GLabel 1250 3100 0    50   Input ~ 0
+CFGIN
 $EndSCHEMATC
