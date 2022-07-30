@@ -20,6 +20,16 @@ https://www.aliexpress.com/item/33029711948.html
 </a>
 
 ***
+When ordering make sure you select ENIG and goldfingers + send note about chamfering only on one side.
+<br />
+<br />
+<a href="images/POC86_revA_pic4.png">
+<img src="images/POC86_revA_pic4.png" width="512" height="328">
+</a>
+<a href="images/POC86_revA_pic5.png">
+<img src="images/POC86_revA_pic5.png" width="256" height="313">
+</a>
+***
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
