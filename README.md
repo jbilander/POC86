@@ -8,6 +8,16 @@ FRONT SIDE &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 <a href="images/POC86_revA_pic1.png">
 <img src="images/POC86_revA_pic1.png" width="300" height="561">
 </a>
+
+***
+New Compact Edition board, no pass-through expansion edge:<br />
+FRONT SIDE &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; UNDER SIDE<br />
+<a href="images/POC86_compact_edition_revA_pic1.png">
+<img src="images/POC86_compact_edition_revA_pic1.png" width="300" height="664">
+</a>
+<a href="images/POC86_compact_edition_revA_pic2.png">
+<img src="images/POC86_compact_edition_revA_pic2.png" width="300" height="664">
+</a>
 ***
 
 86-pin connectors can be sourced from here:<br />
@@ -21,6 +31,7 @@ https://www.aliexpress.com/item/33029711948.html
 
 ***
 When ordering make sure you select ENIG and goldfingers + send note about chamfering only on one side.
+(Not relevant for the new compact edition board, No ENIG-goldfingers nor chamfering needed there, HASL is enough since the expansion edge is gone)
 <br />
 <br />
 <a href="images/POC86_revA_pic4.png">
